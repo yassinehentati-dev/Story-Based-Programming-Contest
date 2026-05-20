@@ -13,9 +13,11 @@ Working with C will teach you how computers really work. Once you acquire some o
 C++ is useful for many applications. Do some research to find out why.
 # What should I do to get started ?
 Watch https://youtu.be/MNeX4EGtR5Y
+
 Watch https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
-Follow https://www.youtube.com/@PortfolioCourses
+
 You are ready now. Click on "Challenge One: Where Are You ?" and enjoy.
 # Licence:
-This little project is made with love by Yassine Hentati, a 1st year software engineering student, and is subject to copyright.
+This little project is made with love by Yassine Hentati, a 1st year software engineering student.
+No reproduction (partial or total) or distribution are allowed without explicit written permission from me.
 
